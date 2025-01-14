@@ -1,7 +1,7 @@
 import tkinter as tk
 
 # Tiv words and their English translations
-tiv_words = [
+tiv_dict = [
     ("Msen", "Love"),
     ("Tiv", "Tiv people"),
     ("Yô", "House"),
